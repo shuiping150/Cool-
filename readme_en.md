@@ -1,4 +1,4 @@
-[Language: 中文](./readme.md)
+[Language: 中文](./README.md)
 
 # Hi, I'm Cool (Green) 👋
 
