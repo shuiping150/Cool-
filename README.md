@@ -1,3 +1,5 @@
+[Language: English](./readme_en.md)
+
 # 你好，我是 Cool (Green) 👋
 
 ### 软件集成工程师 / 企业软件解决方案设计师
